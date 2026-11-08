@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 import 'providers/quiz_provider.dart';
 import 'screens/home_screen.dart';
@@ -26,7 +25,7 @@ class QuizApp extends StatelessWidget {
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFFF5F6FC),
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF6558D3)),
-        textTheme: GoogleFonts.poppinsTextTheme(),
+        fontFamily: 'Poppins',
       ),
       home: const HomeScreen(),
     );
