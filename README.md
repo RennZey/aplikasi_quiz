@@ -1,17 +1,37 @@
-# aplikasi_quiz
+A. Identitas mahasiswa:
+1. Novrendy Dwikana Sembiring
 
-A new Flutter project.
+2. 231401134
 
-## Getting Started
+3. Lab.6
 
-This project is a starting point for a Flutter application.
+B. Informasi Aplikasi:
+1. Aplikasi Quiz
 
-A few resources to get you started if this is your first Flutter project:
+2. Aplikasi berbasis Flutter yang memungkinkan pengguna memasukkan nama, menjawab serangkaian pertanyaan pilihan ganda, dan melihat hasil akhir berupa skor berdasarkan jawaban yang benar. Aplikasi ini juga menyediakan fitur review untuk melihat kembali jawaban pengguna sehingga dapat membantu proses belajar dan mengukur pemahaman materi.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+3. -Input nama pengguna
+-Menjawab soal pilihan ganda
+-Navigasi antarpertanyaan
+-Pemilihan jawaban
+-Perhitungan skor otomatis
+-Menampilkan hasil akhir
+-Review jawaban benar dan salah
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+C. Dokumentasi:
+1. Credits
+
+Aplikasi ini dibuat menggunakan Flutter dengan memanfaatkan beberapa sumber aset dan teknologi berikut:
+
+- Flutter: Framework untuk pengembangan aplikasi.
+
+- Dart: Bahasa pemrograman yang digunakan.
+
+- Poppins Font: Jenis huruf yang digunakan pada tampilan aplikasi.
+
+- Material Design: Referensi komponen dan desain antarmuka.
+
+- Flutter Packages: Library tambahan yang digunakan dalam pengembangan aplikasi.
+
+2. Screenshot tiap page Aplikasi
+3. Link mockup/prototype Aplikasi
