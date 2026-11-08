@@ -33,5 +33,9 @@ Aplikasi ini dibuat menggunakan Flutter dengan memanfaatkan beberapa sumber aset
 
 - Flutter Packages: Library tambahan yang digunakan dalam pengembangan aplikasi.
 
-2. Screenshot tiap page Aplikasi
+2. <img width="438" height="755" alt="Screenshot 2026-11-08 223301" src="https://github.com/user-attachments/assets/cdc53752-f80d-44bb-8568-db7ec2ac8a1d" />
+<img width="432" height="751" alt="Screenshot 2026-11-08 223416" src="https://github.com/user-attachments/assets/0824f40a-c390-4700-87d7-f33ab3e1560a" />
+<img width="427" height="756" alt="Screenshot 2026-11-08 223357" src="https://github.com/user-attachments/assets/844005a7-c851-4bef-ae49-7b9850e1c595" />
+<img width="426" height="750" alt="Screenshot 2026-11-08 223321" src="https://github.com/user-attachments/assets/419ed100-fc5d-46da-b5c1-ba551e88ddbc" />
+
 3. Link mockup/prototype Aplikasi
